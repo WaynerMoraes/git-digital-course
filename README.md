@@ -2,3 +2,5 @@
 
 
 ### Salvando modificações no GIT
+
+* comando git push
